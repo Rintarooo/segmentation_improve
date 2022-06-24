@@ -1,0 +1,5 @@
+/imgs/*.png
+/semantic/*.png
+/slic/*.png
+/imgs/mask/
+/semantic/ckpt/ade20k-resnet50dilated-ppm_deepsup/*.pth
